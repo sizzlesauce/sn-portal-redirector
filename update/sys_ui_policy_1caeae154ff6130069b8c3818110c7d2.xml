@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update sys_domain="global" table="sys_ui_policy">
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
     <sys_ui_policy action="INSERT_OR_UPDATE">
         <active>true</active>
         <conditions table="x_17973_conditiona_portal_redirection_rule">redirect_type=portal^EQ<item endquery="false" field="redirect_type" goto="false" newquery="false" operator="=" or="false" value="portal"/>
@@ -8,6 +7,7 @@
         <description/>
         <global>true</global>
         <inherit>false</inherit>
+        <isolate_script>false</isolate_script>
         <model_id/>
         <model_table/>
         <on_load>true</on_load>
@@ -27,7 +27,6 @@
         <sys_created_on>2018-06-19 01:13:35</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>1caeae154ff6130069b8c3818110c7d2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>[PRR] When type is Portal, show Portal field</sys_name>
@@ -40,6 +39,10 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-06-19 01:13:35</sys_updated_on>
         <table>x_17973_conditiona_portal_redirection_rule</table>
+        <u_invisible/>
+        <u_mandatory/>
+        <u_read_only/>
+        <u_visible/>
         <ui_type>0</ui_type>
         <view/>
     </sys_ui_policy>

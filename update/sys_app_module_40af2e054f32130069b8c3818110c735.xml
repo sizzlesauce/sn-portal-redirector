@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update sys_domain="global" table="sys_app_module">
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
         <application display_value="Conditional Portal Redirector">c0af2e054f32130069b8c3818110c732</application>
@@ -27,7 +26,6 @@
         <sys_created_on>2018-06-18 06:38:55</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>40af2e054f32130069b8c3818110c735</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Portal Redirection Rules</sys_name>
@@ -41,6 +39,13 @@
         <sys_updated_on>2018-06-18 06:38:55</sys_updated_on>
         <timeline_page/>
         <title>Portal Redirection Rules</title>
+        <u_basic_module/>
+        <u_count_color/>
+        <u_count_filter/>
+        <u_refresh_interval/>
+        <u_show_count>false</u_show_count>
+        <u_sort_order/>
+        <u_tablet_only>false</u_tablet_only>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

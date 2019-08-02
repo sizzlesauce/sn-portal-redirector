@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_form_sections form_id="a9613a854f32130069b8c3818110c721" sys_domain="global" table="x_17973_conditiona_portal_redirection_rule" version="3">
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-06-18 06:46:40</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>a1613a854f32130069b8c3818110c724</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
@@ -23,7 +21,6 @@
             <sys_created_on>2018-06-18 06:46:40</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>a9613a854f32130069b8c3818110c721</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_17973_conditiona_portal_redirection_rule</sys_name>

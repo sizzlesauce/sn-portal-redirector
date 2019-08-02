@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="active" label="Active" language="en" table="x_17973_conditiona_portal_redirection_rule">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>active</element>
@@ -13,7 +12,7 @@
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-06-18 06:38:56</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>10af2e054f32130069b8c3818110c77b</sys_id>
+            <sys_id>25994c19dbcbb3403e37d2e3ca9619e8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Active</sys_name>
             <sys_package display_value="Conditional Portal Redirection" source="x_17973_conditiona">a8bee2414f32130069b8c3818110c752</sys_package>

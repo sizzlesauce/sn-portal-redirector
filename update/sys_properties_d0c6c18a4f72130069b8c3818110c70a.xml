@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_properties">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
     <sys_properties action="INSERT_OR_UPDATE">
         <choices/>
         <description>This is a System Property intended to define a "default portal" for the purposes of setting a theme and login page for an unauthenticated user in a custom version of the SPEntryPage script.  &#13;

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_list parent="" relationship="" sys_domain="global" table="x_17973_conditiona_portal_redirection_rule" version="2" view="">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -136,7 +135,6 @@
             <sys_created_on>2018-06-21 00:03:24</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>7bd170ca4f32130069b8c3818110c7a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_17973_conditiona_portal_redirection_rule</sys_name>

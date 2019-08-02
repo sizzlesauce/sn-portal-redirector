@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_choice action="INSERT_OR_UPDATE" field="rule_type" table="x_17973_conditiona_portal_redirection_rule" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -13,7 +12,6 @@
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-06-18 06:45:17</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>fa017e454f32130069b8c3818110c7ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
@@ -32,7 +30,6 @@
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-06-18 06:43:59</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>ebb0fa454f32130069b8c3818110c728</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
@@ -51,7 +48,6 @@
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-06-18 06:44:53</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>22d07e054f32130069b8c3818110c755</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
@@ -65,7 +61,7 @@
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-06-18 06:43:59</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>5cfad9f3db03130041845421cf9619bd</sys_id>
+            <sys_id>36998c19dbcbb3403e37d2e3ca9619d5</sys_id>
             <sys_mod_count>4</sys_mod_count>
             <sys_name>rule_type</sys_name>
             <sys_package display_value="Conditional Portal Redirection" source="x_17973_conditiona">a8bee2414f32130069b8c3818110c752</sys_package>
